@@ -1,4 +1,4 @@
-# FP02-M5# Projeto: 2I-M5-12345-FP02 - Processamento de Formulários e Arrays PHP
+# Processamento de Formulários e Arrays PHP
 
 Este repositório contém um projeto simples desenvolvido em **HTML** e **PHP** focado no processamento de dados submetidos através de formulários e na manipulação de arrays. O nome do projeto, `2I-M5-12345-FP02`, sugere que se trata de um trabalho prático (FP02) do Módulo 5 (M5) de um curso técnico.
 
