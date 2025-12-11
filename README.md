@@ -19,8 +19,8 @@ O projeto demonstra duas funcionalidades distintas de processamento de dados, am
 
 O ficheiro `form.html` apresenta dois formulários HTML distintos, ambos configurados para enviar dados para `lista.php` através do método `POST`.
 
-*   **Primeiro Formulário (Itens):** Destinado à entrada de 5 itens genéricos (rotulados como "Item 1" a "Item 5").
-*   **Segundo Formulário (Notas):** Destinado à entrada de 5 notas (rotuladas como "Nota 1" a "Nota 5").
+*   **Primeiro Formulário (Itens):** Destinado à entrada de 5 itens (listados como "Item 1" a "Item 5").
+*   **Segundo Formulário (Notas):** Destinado à entrada de 5 notas (listados como "Nota 1" a "Nota 5").
 
 **Nota Importante:** Foi identificada uma **inconsistência estrutural** no `form.html`. Os campos de input de ambos os formulários utilizam os mesmos atributos `name` (`item1` a `item5`). Na prática, apenas os valores do último formulário submetido serão processados corretamente pelo PHP, e o primeiro formulário não possui um botão de submissão (`<button type="submit">`).
 
